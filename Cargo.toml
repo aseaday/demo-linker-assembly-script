@@ -1,0 +1,9 @@
+[package]
+name = "as-link"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wasmtime = "1.0.0"
+wasmtime-wasi = "1.0.0"
+anyhow = "1.0"

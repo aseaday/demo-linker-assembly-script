@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "asb --wat",
+    "test": "cargo run"
+    "edition": "2022"
+
+  },
+  "devDependencies": {
+    "asbuild": "^0.0.6",
+    "assemblyscript": "^0.14.7"
+  }
+}

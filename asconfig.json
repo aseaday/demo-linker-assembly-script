@@ -1,0 +1,10 @@
+{
+  "workspaces": [
+    "app",
+    "lib"
+  ],
+  "options": {
+    "runtime": "none",
+    "noExportMemory": true
+  }
+}
